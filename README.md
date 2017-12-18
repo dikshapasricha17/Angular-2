@@ -1,2 +1,2 @@
 # Angular-2
-Basic Crud Application
+Basic Crud Application using angular-2
